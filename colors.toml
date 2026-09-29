@@ -1,0 +1,31 @@
+# 武侠·夜 Wuxia Night — 夜行衣黑为底、月白为字、剑光冷青为印、血色点缀。浅色版见 wuxia。
+mode = "dark"
+accent = "#8EB6CF"
+selection = "#2E3338"
+muted = "#5C636A"
+
+background = "#121416"
+dark_background = "#0B0C0E"
+darker_background = "#040505"
+lighter_background = "#202327"
+
+foreground = "#D9DEE2"
+dark_foreground = "#848A90"
+light_foreground = "#B8BEC4"
+bright_foreground = "#DCE1E4"
+
+red = "#D8544A"
+yellow = "#CFAE5E"
+orange = "#D18A52"
+green = "#7AB894"
+cyan = "#7EB8C4"
+blue = "#8EB6CF"
+magenta = "#C084AE"
+brown = "#A8907A"
+
+bright_red = "#DF746C"
+bright_yellow = "#D8BE7D"
+bright_green = "#95C6A9"
+bright_cyan = "#9AC7D1"
+bright_blue = "#ABC8DB"
+bright_magenta = "#CE9FC0"
