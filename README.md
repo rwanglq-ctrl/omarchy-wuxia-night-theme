@@ -14,9 +14,7 @@ omarchy theme install https://github.com/rwanglq-ctrl/omarchy-wuxia-night-theme
 
 1. 商喜《关羽擒将图》轴局部，明（公有领域，图像来自 Wikimedia Commons）
 2. 仇英（传）《蜀道春行图》局部，明（公有领域，图像来自 Wikimedia Commons）
-3. 陈洪绶《品茶图》局部，明（公有领域，图像来自 Wikimedia Commons）
-4. 马远《寒江独钓图》局部，南宋，东京国立博物馆（公有领域，图像来自 Wikimedia Commons），适度压暗
-5. 佚名《三骑射雁图》局部，宋，[克利夫兰艺术博物馆](https://clevelandart.org/art/1915.703)（CC0，图像来自该馆开放获取库），适度压暗
+3. 马远《寒江独钓图》局部，南宋，东京国立博物馆（公有领域，图像来自 Wikimedia Commons），适度压暗
 
 ## 许可
 
